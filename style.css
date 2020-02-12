@@ -1,0 +1,78 @@
+body    {
+ background-color: rgb(0, 0, 0);
+ color: black;
+
+ 
+}
+h1 {
+    color: darkcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px ;
+}
+/* article.col-12.card {
+    width: 930 px;
+    height: 850px;
+} */
+a{
+    margin-left: 80px;
+    color: white;
+}
+
+p{
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+h1  {
+    border-bottom: 2px solid grey;
+    background-color: white;
+  }
+
+img.float-left.mr-2 {
+    height: 404px;
+    width: 300Px;
+}
+img.card-img-top {
+    height: 300px;
+    /* width: 350px; */
+}
+.centered {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+  }
+
+a.navbar-brand  {
+    background-color: darkcyan;
+    font-weight: bold;
+}
+
+.container {
+    padding: 30px;
+
+  
+}
+/* article.col-12.card {
+    height: 1000px;
+} */
+
+input#exampleInputMessage1.form-control {
+    
+    height: 450px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 10px;
+ }
+ footer p  {
+    font-size: 10px;
+ }
+
+
