@@ -70,7 +70,9 @@ a.navbar-brand  {
     background-color: darkcyan;
     font-weight: bold;
 }
-
+strong{
+    display: inline-block;
+}
 .container {
     padding: 30px;
 
