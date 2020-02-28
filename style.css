@@ -1,8 +1,7 @@
 body    {
- background-color:lightgray;
- color: black;
-
- 
+ background-color:black;
+ color:white;
+  
 }
 h1 {
     color: darkcyan;
@@ -15,7 +14,7 @@ h1 {
 } */
 a{
     margin-left: 80px;
-    color: white;
+    color:#1d2124;
 }
 
 p{
@@ -24,19 +23,24 @@ p{
 
 h1  {
     border-bottom: 2px solid grey;
-    background-color: white;
-  }
+    background-color:transparent;
+ }
+p.lead{
+    padding: 20px;
+    font-weight: bold;
+}
 
 img.float-left.mr-2 {
     height: 404px;
-    width: 300Px;
+    width: 300Px; 
+}
+.card-body{
+    background-color: black;
 }
 img.card-img-top1 {
   
    /* background-image: url(image/soundtrackmovie); */
    height: 277px;
-
-   
 }
 .centered {
     position: absolute;
@@ -44,7 +48,15 @@ img.card-img-top1 {
     left: 50%;
     transform: translate(-50%, -50%)
   }
-
+.img{
+    position: relative;
+  
+}
+.jumbotron{
+    background-color: black;
+    background-image: url(images/background.jpeg);
+    height: 800px;
+}
 a.navbar-brand  {
     background-color: darkcyan;
     font-weight: bold;
@@ -58,10 +70,16 @@ a.navbar-brand  {
 /* article.col-12.card {
     height: 1000px;
 } */
-
+.card{
+    background-color:#1d2124;
+}
 input#exampleInputMessage1.form-control {
-    
+    background-color:#1d2124;
     height: 450px;
+}
+.form-control{
+    background-color:#1d2124;
+    border:#1d2124;;
 }
 
 footer {
