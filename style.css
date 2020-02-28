@@ -1,5 +1,5 @@
 body    {
- background-color: rgb(0, 0, 0);
+ background-color:lightgray;
  color: black;
 
  
@@ -31,9 +31,12 @@ img.float-left.mr-2 {
     height: 404px;
     width: 300Px;
 }
-img.card-img-top {
-    height: 300px;
-    /* width: 350px; */
+img.card-img-top1 {
+  
+   /* background-image: url(image/soundtrackmovie); */
+   height: 277px;
+
+   
 }
 .centered {
     position: absolute;
@@ -69,7 +72,7 @@ footer {
     background-color: grey;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
  }
  footer p  {
     font-size: 10px;
