@@ -1,4 +1,4 @@
-body    {
+body {
  background-color:black;
  color:white;
   
@@ -18,9 +18,11 @@ a{
 }
 
 p{
-    font-family:'Times New Roman', Times, serif;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: 'Caveat';
     font-size: 20px;
     letter-spacing: 1.0;
+    color: darkcyan;
 }
 
 h1  {
@@ -30,6 +32,7 @@ h1  {
 p.lead{
     padding: 20px;
     font-weight: bold;
+    color: dodgerblue;
 }
 
 img.float-left.mr-2 {
@@ -67,6 +70,7 @@ img.card-img-top1 {
     background-color: black;
     background-image: url(images/background.jpeg);
     height: 800px;
+    opacity: 95%;
 }
 a.navbar-brand  {
     background-color: darkcyan;
