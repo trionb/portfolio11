@@ -24,6 +24,12 @@ p{
     letter-spacing: 1.0;
     color: darkcyan;
 }
+.note{
+    font-family: 'Caveat';
+    font-size: 14px;
+    letter-spacing: 1.0;
+    color: darkcyan;
+}
 
 h1  {
     border-bottom: 2px solid grey;
@@ -42,6 +48,7 @@ img.float-left.mr-2 {
 .card-body{
     background-color: black;
 }
+
 .btn{
     display: inline-block;
     color: red;
@@ -72,8 +79,13 @@ img.card-img-top1 {
     height: 800px;
     opacity: 95%;
 }
+.jumbotron1{
+    background-image:url(images/contactpagebackgroung.png);
+    height: 800px;
+    opacity: 95%;
+}
 a.navbar-brand  {
-    background-color: darkcyan;
+    background-color: transparent;
     font-weight: bold;
 }
 strong{
@@ -98,7 +110,6 @@ input#exampleInputMessage1.form-control {
     background-color:#1d2124;
     border:#1d2124;;
 }
-
 footer {
     position: fixed;
     left: 0;
