@@ -1,8 +1,11 @@
+
 trionb.github.io
 
-MY PORTFOLIO:
+
+MY PORTFOLIO:https://trionb.github.io/
 
             Here is my updated portfolio.This is responsive, detailed portfolio including my most current projects.
+            
             
  
 
