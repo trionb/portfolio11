@@ -22,13 +22,13 @@ p{
     font-family: 'Caveat';
     font-size: 20px;
     letter-spacing: 1.0;
-    color: darkcyan;
+    color: red;
 }
 .note{
     font-family: 'Caveat';
     font-size: 14px;
     letter-spacing: 1.0;
-    color: darkcyan;
+    color: #780000;
 }
 
 h1  {
@@ -102,7 +102,7 @@ img.card-img-top1 {
 }
 .jumbotron3{
     background-image:url(images/44-442751_dark-light.jpg);
-    height: 1400px;
+    height: auto;
     opacity: 95%;
 }
 a.navbar-brand  {
@@ -124,6 +124,9 @@ strong{
 } */
 .card{
     background-color:#1d2124;
+}
+.card-body1{
+    background-color: black;
 }
 input#exampleInputMessage1.form-control {
     background-color:#1d2124;
