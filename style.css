@@ -62,6 +62,7 @@ img.float-left.mr-2 {
 .fab{
   display: inline-block;
   position: relative;
+  border: transparent;
   color: red;
   float: left;
 }
