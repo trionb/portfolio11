@@ -1,16 +1,21 @@
+# reactPortfolio
 
-trionb.github.io
+## About
+-This a my portfolio using React.
 
 
-MY PORTFOLIO:https://trionb.github.io/
+## Technologies Used
+* BootStrap
+* JavaScript
+* CSS3
+* HTML5
+* React
 
-            Here is my updated portfolio.This is responsive, detailed portfolio including my most current projects.
-            
-            
- 
+## Licenses
+-None
 
-![image](https://user-images.githubusercontent.com/60153876/77692751-90411180-6f7d-11ea-88c4-1fefbeb827ad.png)
-<img width="1440" alt="Screen Shot 2020-03-26 at 4 16 27 PM" src="https://user-images.githubusercontent.com/60153876/77692659-6c7dcb80-6f7d-11ea-99b2-3d418ad043fe.png">
-<img width="1440" alt="Screen Shot 2020-03-26 at 4 16 39 PM" src="https://user-images.githubusercontent.com/60153876/77692681-74d60680-6f7d-11ea-9db3-a4dd61ae1a69.png">
-<img width="1440" alt="Screen Shot 2020-03-26 at 4 16 48 PM" src="https://user-images.githubusercontent.com/60153876/77692697-799aba80-6f7d-11ea-96e6-9fbbccb646ad.png">
+
+## Screenshot
+
+<img width="1438" alt="Screen Shot 2020-04-09 at 4 20 26 PM" src="https://user-images.githubusercontent.com/60153876/78937227-19783e00-7a7e-11ea-8362-1e80c9dd4ea2.png">
 
